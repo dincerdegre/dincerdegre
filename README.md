@@ -1,7 +1,5 @@
 # Hi! My Name is Dinçer Degre ![](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png)
 
-<p align="right"><img src="https://enjvq2pyu53dm2l.m.pipedream.net" alt="dincerdegre" /></p>
-
 ## I am Full Stack Developer
 
 - 🌍 I live in Türkiye
