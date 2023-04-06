@@ -9,6 +9,7 @@
 - 🌱 Currently Learning Typescript
 - 👯 I’m looking to collaborate with other researchers
 - Looking For My Post's (Turkish) --> [Medium](https://medium.com/dincerdegre)
+- 📫 How to reach me: info@dincerdegre.com
 
 ## Developer Skills
 
