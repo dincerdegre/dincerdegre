@@ -20,7 +20,7 @@
 
 ![Backend Skills](https://skillicons.dev/icons?i=php,nodejs,express,mysql,postgres,mongo)
 
-## Other Skills
+### Other Skills
 
 ![Other Skills](https://skillicons.dev/icons?i=linux,git,github,vscode,postman,wordpress)
 
