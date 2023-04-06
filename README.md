@@ -4,7 +4,7 @@
 
 ## I am Full Stack Developer
 
-- 🌍 I am live in Türkiye
+- 🌍 I live in Türkiye
 - 🖥️ See my portfolio at <a target="_blank" rel="noreferrer" href="https://www.dincerdegre.com">Portfolio</a>
 - 🌱 Currently Learning Typescript
 - 👯 I’m looking to collaborate with other researchers
