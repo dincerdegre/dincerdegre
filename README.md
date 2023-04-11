@@ -21,7 +21,7 @@
 
 ### Other Skills
 
-![Other Skills](https://skillicons.dev/icons?i=linux,git,github,vscode,postman,wordpress)
+![Other Skills](https://skillicons.dev/icons?i=linux,git,github,docker,vscode,postman,wordpress)
 
 ## Socials
 [![DincerDegre LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/din%C3%A7er-de%C4%9Fre-277567185/)
