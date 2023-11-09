@@ -17,7 +17,7 @@
 
 ### Backend Skills
 
-![Backend Skills](https://skillicons.dev/icons?i=php,nodejs,express,mysql,postgres,mongo)
+![Backend Skills](https://skillicons.dev/icons?i=php,nodejs,express,nestjs,mysql,postgres,mongo)
 
 ### Other Skills
 
