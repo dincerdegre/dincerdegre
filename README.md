@@ -13,7 +13,7 @@
 
 ### Frontend Skills
 
-![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,sass,tailwind,react,next,jquery)
+![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,tailwind,react,next,jquery)
 
 ### Backend Skills
 
